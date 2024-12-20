@@ -1,3 +1,6 @@
+## Toko Putra Jaya
+Projek ini dibuat untuk memenuhi kebutuhan tugas akhir mata kuliah basis data
+
 ## Team
 
 - [Alvian Dwiky P.S](https://github.com/alvn22)
